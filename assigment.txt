@@ -1,0 +1,5 @@
+1- validate the adding form with any validator package
+2- Make post details page for viewing post details pages 
+3- make delete operation 
+4- enhancement the Route technique with React Router Dom 
+
